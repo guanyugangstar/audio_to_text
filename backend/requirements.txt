@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai-whisper
+python-multipart
+pydantic 
+opencc 
+opencc-python-reimplemented 
